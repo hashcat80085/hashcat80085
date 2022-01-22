@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @hashcat80085
-- 🌱 I’m currently learning html,css & js
+- 👋 Hi, I’m kamisama
+- 👉 Into Linux Debian.
+- 🌱 I’m currently learning html, css & js.
 - 📫 Discord - kamisama#8905 
 - ⛩️ Currently learning Japanese, こんにちは！
 
