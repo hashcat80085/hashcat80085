@@ -1,3 +1,4 @@
+###Alias kamisama80085
 # 💫 About Me:
 🔭 I'm currently working on improvement of my DSA skills.<br>🤝 I love operating linux environment and enhance my linux skills.<br>🌱 I’m currently preparing for JLPT N3 Test, I have already cleared N5 & N4 as well.<br>💬 Ask me about anything...if i have even little bit knowledge of it i'll try to answer it.<br>⚡ Fun fact : Can't bear it anymore...still continue to bear it
 
